@@ -19,7 +19,6 @@ This project is a **fully interactive COVID-19 dashboard** built using **Python,
 * **Download CSV:** Export filtered data directly from the dashboard.
 * **Modern Dark Theme:** Professional, clean design suitable for portfolio showcase.
 
----
 
 ## **Technologies Used**
 
@@ -38,7 +37,6 @@ Columns used:
 
 * `date`, `location`, `new_cases`, `new_deaths`, `total_cases`, `total_deaths`, `people_vaccinated`, `people_fully_vaccinated`, `population`, `gdp_per_capita`
 
----
 
 ## **Insights**
 
