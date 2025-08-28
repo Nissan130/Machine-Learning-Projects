@@ -1,4 +1,4 @@
-# COVID-19 Interactive Dashboard
+# Global-COVID-19-Data-Visualization
 
 ## **Project Overview**
 
@@ -10,7 +10,6 @@ This project is a **fully interactive COVID-19 dashboard** built using **Python,
 * Download filtered COVID-19 data as a CSV file.
 * Gain insights from trends and correlations for a professional data analysis experience.
 
----
 
 ## **Features**
 
@@ -29,32 +28,6 @@ This project is a **fully interactive COVID-19 dashboard** built using **Python,
 * **Seaborn & Matplotlib** – static plots
 * **Plotly & Dash** – interactive visualizations and web dashboard
 
----
-
-## **Installation**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/covid-dashboard.git
-cd covid-dashboard
-```
-
-2. Install required packages:
-
-```bash
-pip install pandas plotly dash matplotlib
-```
-
-3. Run the app:
-
-```bash
-python app.py
-```
-
-4. Open your browser at `http://127.0.0.1:8050` to view the dashboard.
-
----
 
 ## **Dataset**
 
@@ -74,13 +47,4 @@ Columns used:
 * Countries with **higher vaccination rates** show lower new cases in most instances.
 * The dashboard allows **dynamic exploration** of trends for selected countries and metrics.
 
-
----
-
-## **Future Enhancements**
-
-* Add **more countries dynamically** from the dataset.
-* Include **additional metrics** like hospitalizations and testing rates.
-* Deploy the dashboard online using **Heroku or Streamlit Share** for public access.
-* Add **trend prediction charts** using machine learning models.
 
