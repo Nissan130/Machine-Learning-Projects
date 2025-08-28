@@ -1,0 +1,38 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# OS files (Mac/Windows/Linux)
+.DS_Store
+Thumbs.db
+
+# Data files (optional - ignore large raw data to keep repo clean)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+
+# But keep a "data/" folder with a README
+!data/.gitkeep
+
+# Model files (if you train ML models)
+*.h5
+*.pkl
+*.joblib
+*.sav
